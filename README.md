@@ -1,1 +1,1 @@
-# Simple-UART-Transmitter-and-Receiver
+# UART Transmitter-and-Receiver
